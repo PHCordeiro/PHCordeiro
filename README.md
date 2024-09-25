@@ -14,3 +14,9 @@
 ## GitHub Stats
  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHCordeiro&layout=compact&langs_count=7&theme=dracula"/>
  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=PHCordeiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+## Projeto Destaque: Analise de Dados - Diabetes
+
+Treinamento de máquina onde há classificação de pessoas com diabetes usando algoritmos de machine learning.
+
+[Link para o repositório]([https://github.com/PHCordeiro/Analise_de_Dados_Diabetes](https://github.com/PHCordeiro/Analise_de_Dados_Diabetes))
